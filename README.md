@@ -1,10 +1,11 @@
 # Coding Test Example (Python)
 
-Table of Contents
+**Table of Contents**
 1. [Introduction](#introduction)
 2. [Installation Instructions](#installation-instructions)
 3. [Usage](#usage)
 4. [Disclaimer](#disclaimer)
+<br/><br/>
 
 ## Introduction
 This is a simple <ins>**console/terminal**</ins> Python script that downloads a Google Doc from a specified URL and if the Google Doc is in the correct format, a grid of uppercase characters will be printed to the console.
