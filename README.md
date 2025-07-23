@@ -1,16 +1,14 @@
 # Coding Test Example (Python)
 
 <details>
-  <summary>
-    <b>Table of Contents</b>
-  </summary>
+<summary><b>Table of Contents</b></summary>
 
 1. [Introduction](#introduction)
 2. [Installation Instructions](#installation-instructions)
 3. [Usage](#usage)
 4. [Disclaimer](#disclaimer)
 </details>
-<br/><br/>
+<br/>
 
 ## Introduction
 This is a simple <ins>**console/terminal**</ins> Python script that downloads a Google Doc from a specified URL and if the Google Doc is in the correct format, a grid of uppercase characters will be printed to the console.
@@ -27,7 +25,7 @@ This is a simple <ins>**console/terminal**</ins> Python script that downloads a 
 ## Installation Instructions
 1. git clone https://github.com/kalcorn/coding-test-example-python.git
 2. cd coding-test-example-python
-3. pip install requests beautifulsoup4 termcolor
+3. pip install -r requirements.txt
 <br/><br/>
 
 ## Usage
