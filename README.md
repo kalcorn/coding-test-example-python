@@ -12,7 +12,7 @@ This is a simple Python script that downloads a Google Doc from a specified URL 
 
 ## Usage
 python coding-test.py [GOOGLE DOCS URL GOES HERE]
-<br/><br/>
+<br/><br/><br/>
 **Examples:**
 <br/><br/>
 Simple:<br/>
