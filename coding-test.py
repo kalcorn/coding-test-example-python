@@ -37,19 +37,19 @@ def get_character_grid(doc_url):
         sys.exit(1)
         
     html = response.text
-    soup = BeautifulSoup(html, 'html.parser')
+    soup = BeautifulSoup(html, "html.parser")
 
     grid = []
     max_x = 0
     max_y = 0
     
-    tables = soup.find_all('table')
+    tables = soup.find_all("table")
     
     for table in tables:
-        rows = table.find_all('tr')
+        rows = table.find_all("tr")
         
         for row in rows:
-            cells = row.find_all('td')
+            cells = row.find_all("td")
             
             x = cells[0].get_text(strip=True)
             char = cells[1].get_text(strip=True)
