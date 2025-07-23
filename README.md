@@ -1,5 +1,5 @@
 # Coding Test Example (Python)
-This is a simple *_console/terminal_* Python script that downloads a Google Doc from a specified URL and if the Google Doc is in the correct format, a grid of uppercase characters will be printed to the console.
+This is a simple <ins>**console/terminal**</ins> Python script that downloads a Google Doc from a specified URL and if the Google Doc is in the correct format, a grid of uppercase characters will be printed to the console.
 <br/><br/>
 **Example Google Doc format:**<br/>
 <img src="images/coding-test-example-doc.png" alt="Example Document" width="408" height="321">
