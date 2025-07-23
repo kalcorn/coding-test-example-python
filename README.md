@@ -1,11 +1,12 @@
 # Coding Test Example (Python)
 
 <details>
-<summary>Table of Contents</summary>
-- [Introduction](#introduction)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Disclaimer](#disclaimer)
+    <summary><b>Table of Contents</b></summary>
+    ### Heading
+    - [Introduction](#introduction)
+    - [Installation Instructions](#installation-instructions)
+    - [Usage](#usage)
+    - [Disclaimer](#disclaimer)
 </details>
 <br/><br/>
 
