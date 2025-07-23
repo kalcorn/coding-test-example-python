@@ -1,14 +1,18 @@
 # Coding Test Example (Python)
 
+1. [Introduction](#introduction)
+2. [Installation Instructions](#installation-instructions)
+3. [Usage](#usage)
+4. [Disclaimer](#disclaimer)
 <details>
     <summary><b>Table of Contents</b></summary>
     ### Heading
 
 </details>
-    - [Introduction](#introduction)
-    - [Installation Instructions](#installation-instructions)
-    - [Usage](#usage)
-    - [Disclaimer](#disclaimer)
+1. [Introduction](#introduction)
+2. [Installation Instructions](#installation-instructions)
+3. [Usage](#usage)
+4. [Disclaimer](#disclaimer)
 <br/><br/>
 
 ## Introduction
