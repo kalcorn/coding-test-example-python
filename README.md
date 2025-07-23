@@ -1,7 +1,7 @@
 # Coding Test Example (Python)
 
 <details>
-<summary><b>Table of Contents</b></summary>
+<summary>Table of Contents</summary>
 - [Introduction](#introduction)
 - [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
