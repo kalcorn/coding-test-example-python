@@ -1,17 +1,20 @@
-# DataAnnotation Coding Test Example (Python)
+# Coding Test Example (Python)
 This is a simple Python script that downloads a Google Doc from a specified URL and if it's in the correct format, a grid of uppercase characters will be printed to the console.
 <br/><br/>
 **Example Google Doc format:**<br/>
-<img src="images/dataannotation-example-doc.png" alt="Example Document" width="408" height="319">
+<img src="images/coding-test-example-doc.png" alt="Example Document" width="408" height="321">
 <br/>
-**Note:** This can also be found <a href="https://bit.ly/dataannotation-example-python">here</a>.
+**Note:** This can also be found <a href="https://bit.ly/coding-test-example-python">here</a>.
 <br/><br/>
 **Sample output:**<br/>
-<img src="images/dataannotation-sample-output.png" alt="Sample Output" width="889" height="172">
+<img src="images/coding-test-sample-output.png" alt="Sample Output" width="808" height="172">
 <br/>
 
 ## Usage
-python dataannotation.py [GOOGLE DOCS URL GOES HERE]
+python coding-test.py [GOOGLE DOCS URL GOES HERE]
 <br/><br/>
 **Example:**<br/>
-python dataannotation.py https://bit.ly/dataannotation-example-python
+python coding-test.py https://bit.ly/coding-test-example-python
+
+## Disclaimer
+This software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
