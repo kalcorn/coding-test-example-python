@@ -1,10 +1,12 @@
 # Coding Test Example (Python)
 
-**Table of Contents**
+<details>
+<summary>**Table of Contents**</summary>
 1. [Introduction](#introduction)
 2. [Installation Instructions](#installation-instructions)
 3. [Usage](#usage)
 4. [Disclaimer](#disclaimer)
+</details>
 <br/><br/>
 
 ## Introduction
