@@ -1,6 +1,6 @@
 # Coding Test Example (Python)
 
-<details>
+<details open>
 <summary><b>Table of Contents</b></summary>
 
 1. [Introduction](#introduction)
