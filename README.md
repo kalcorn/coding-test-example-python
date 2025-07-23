@@ -12,13 +12,13 @@ This is a simple Python script that downloads a Google Doc from a specified URL 
 
 ## Usage
 python coding-test.py [GOOGLE DOCS URL GOES HERE]
-<br/><br/><br/>
+<br/><br/>
 **Examples:**
 <br/><br/>
-Simple:<br/>
+- Simple:<br/>
 python coding-test.py https://bit.ly/coding-test-example-python
 <br/><br/>
-Complex:<br/>
+- Complex:<br/>
 python coding-test.py https://bit.ly/coding-test-example-python-complex
 <br/><br/>
 
