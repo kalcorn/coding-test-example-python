@@ -3,11 +3,12 @@
 <details>
     <summary><b>Table of Contents</b></summary>
     ### Heading
+
+</details>
     - [Introduction](#introduction)
     - [Installation Instructions](#installation-instructions)
     - [Usage](#usage)
     - [Disclaimer](#disclaimer)
-</details>
 <br/><br/>
 
 ## Introduction
