@@ -1,5 +1,5 @@
 # Coding Test Example (Python)
-This is a simple Python script that downloads a Google Doc from a specified URL and if it's in the correct format, a grid of uppercase characters will be printed to the console.
+This is a simple *_console/terminal_* Python script that downloads a Google Doc from a specified URL and if the Google Doc is in the correct format, a grid of uppercase characters will be printed to the console.
 <br/><br/>
 **Example Google Doc format:**<br/>
 <img src="images/coding-test-example-doc.png" alt="Example Document" width="408" height="321">
@@ -8,6 +8,12 @@ This is a simple Python script that downloads a Google Doc from a specified URL 
 <br/><br/>
 **Sample output:**<br/>
 <img src="images/coding-test-sample-output.png" alt="Sample Output" width="806" height="169">
+<br/><br/>
+
+## Installation instructions
+1. git clone https://github.com/kalcorn/coding-test-example-python.git
+2. cd coding-test-example-python
+3. pip install requests beautifulsoup4 termcolor
 <br/><br/>
 
 ## Usage
