@@ -14,10 +14,10 @@ This is a simple Python script that downloads a Google Doc from a specified URL 
 python coding-test.py [GOOGLE DOCS URL GOES HERE]
 <br/><br/>
 **Examples:**
-<br/>
+<br/><br/>
 Simple:<br/>
 python coding-test.py https://bit.ly/coding-test-example-python
-<br/>
+<br/><br/>
 Complex:<br/>
 python coding-test.py https://bit.ly/coding-test-example-python-complex
 <br/><br/>
