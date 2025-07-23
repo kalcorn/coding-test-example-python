@@ -2,7 +2,7 @@ import requests
 import sys
 from bs4 import BeautifulSoup
 from operator import attrgetter
-from termcolor import colored # type: ignore
+from termcolor import colored
 
 class CharacterGridItem:
     def __init__(self, x, char, y):
@@ -12,9 +12,6 @@ class CharacterGridItem:
 
 def main():
     validate_user_input()
-    
-    # Sample Arg (Simple):  https://docs.google.com/document/d/e/2PACX-1vRMx5YQlZNa3ra8dYYxmv-QIQ3YJe8tbI3kqcuC7lQiZm-CSEznKfN_HYNSpoXcZIV3Y_O3YoUB1ecq/pub
-    # Sample Arg (Complex): https://docs.google.com/document/d/e/2PACX-1vTER-wL5E8YC9pxDx43gk8eIds59GtUUk4nJo_ZWagbnrH0NFvMXIw6VWFLpf5tWTZIT9P9oLIoFJ6A/pub
     decode_secret_message(sys.argv[1])
 
 def decode_secret_message(doc_url):
