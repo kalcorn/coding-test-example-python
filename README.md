@@ -10,7 +10,7 @@ This is a simple <ins>**console/terminal**</ins> Python script that downloads a 
 <img src="images/coding-test-sample-output.png" alt="Sample Output" width="806" height="169">
 <br/><br/>
 
-## Installation instructions
+## Installation Instructions
 1. git clone https://github.com/kalcorn/coding-test-example-python.git
 2. cd coding-test-example-python
 3. pip install requests beautifulsoup4 termcolor
